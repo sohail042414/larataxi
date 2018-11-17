@@ -22,8 +22,8 @@
 
                                             <figure class="wpb_wrapper vc_figure">
                                                 <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="84"
-                                                        height="72" src="http://uktaxi.local/wp-content/uploads/2017/05/partner-2.png"
-                                                        class="vc_single_image-img attachment-thumbnail" alt=""></div>
+                                                        height="72" src="/images/partner-2.png" class="vc_single_image-img attachment-thumbnail"
+                                                        alt=""></div>
                                             </figure>
                                         </div>
                                     </div>
@@ -36,8 +36,8 @@
 
                                             <figure class="wpb_wrapper vc_figure">
                                                 <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="75"
-                                                        height="60" src="http://uktaxi.local/wp-content/uploads/2017/05/partner-1.png"
-                                                        class="vc_single_image-img attachment-thumbnail" alt=""></div>
+                                                        height="60" src="/images/partner-1.png" class="vc_single_image-img attachment-thumbnail"
+                                                        alt=""></div>
                                             </figure>
                                         </div>
                                     </div>
@@ -50,8 +50,8 @@
 
                                             <figure class="wpb_wrapper vc_figure">
                                                 <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="87"
-                                                        height="60" src="http://uktaxi.local/wp-content/uploads/2017/05/partner-3.png"
-                                                        class="vc_single_image-img attachment-thumbnail" alt=""></div>
+                                                        height="60" src="/images/partner-3.png" class="vc_single_image-img attachment-thumbnail"
+                                                        alt=""></div>
                                             </figure>
                                         </div>
                                     </div>
@@ -64,8 +64,8 @@
 
                                             <figure class="wpb_wrapper vc_figure">
                                                 <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="76"
-                                                        height="74" src="http://uktaxi.local/wp-content/uploads/2017/05/partner-5.png"
-                                                        class="vc_single_image-img attachment-thumbnail" alt=""></div>
+                                                        height="74" src="/images/partner-5.png" class="vc_single_image-img attachment-thumbnail"
+                                                        alt=""></div>
                                             </figure>
                                         </div>
                                     </div>

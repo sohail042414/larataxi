@@ -18,7 +18,7 @@
                     <div class="wpb_single_image wpb_content_element vc_align_center">
 
                         <figure class="wpb_wrapper vc_figure">
-                            <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="71" height="71" src="http://uktaxi.local/wp-content/uploads/2017/05/services-1.png"
+                            <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="71" height="71" src="/images/services-1.png"
                                     class="vc_single_image-img attachment-thumbnail" alt=""></div>
                         </figure>
                     </div>
@@ -40,7 +40,7 @@
                     <div class="wpb_single_image wpb_content_element vc_align_center">
 
                         <figure class="wpb_wrapper vc_figure">
-                            <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="71" height="71" src="http://uktaxi.local/wp-content/uploads/2017/05/services-2.png"
+                            <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="71" height="71" src="/images/services-2.png"
                                     class="vc_single_image-img attachment-thumbnail" alt=""></div>
                         </figure>
                     </div>
@@ -62,7 +62,7 @@
                     <div class="wpb_single_image wpb_content_element vc_align_center">
 
                         <figure class="wpb_wrapper vc_figure">
-                            <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="68" height="68" src="http://uktaxi.local/wp-content/uploads/2017/05/services-3.png"
+                            <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="68" height="68" src="/images/services-3.png"
                                     class="vc_single_image-img attachment-thumbnail" alt=""></div>
                         </figure>
                     </div>
@@ -84,7 +84,7 @@
                     <div class="wpb_single_image wpb_content_element vc_align_center">
 
                         <figure class="wpb_wrapper vc_figure">
-                            <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="72" height="60" src="http://uktaxi.local/wp-content/uploads/2017/05/services-4.png"
+                            <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="72" height="60" src="/images/services-4.png"
                                     class="vc_single_image-img attachment-thumbnail" alt=""></div>
                         </figure>
                     </div>

@@ -21,10 +21,9 @@
                                     </div>
                                     <div class="quote">
                                         <span class="fa fa-quote-left"></span>
-                                        <div class="name">ANASTASIA STONE</div><img width="102" height="102" src="http://uktaxi.local/wp-content/uploads/2017/05/client-1.jpg"
+                                        <div class="name">ANASTASIA STONE</div><img width="102" height="102" src="/images/client-1.jpg"
                                             class="attachment-stargym-test size-stargym-test wp-post-image" alt=""
-                                            srcset="http://uktaxi.local/wp-content/uploads/2017/05/client-1.jpg 102w, http://uktaxi.local/wp-content/uploads/2017/05/client-1-100x100.jpg 100w"
-                                            sizes="(max-width: 102px) 100vw, 102px">
+                                            srcset="/images/client-1.jpg 102w, /images/client-1-100x100.jpg 100w" sizes="(max-width: 102px) 100vw, 102px">
                                     </div>
                                 </article>
                             </div>
@@ -38,10 +37,9 @@
                                     </div>
                                     <div class="quote">
                                         <span class="fa fa-quote-left"></span>
-                                        <div class="name">PATRICK JAMES</div><img width="110" height="110" src="http://uktaxi.local/wp-content/uploads/2017/05/client-5.jpg"
+                                        <div class="name">PATRICK JAMES</div><img width="110" height="110" src="/images/client-5.jpg"
                                             class="attachment-stargym-test size-stargym-test wp-post-image" alt=""
-                                            srcset="http://uktaxi.local/wp-content/uploads/2017/05/client-5.jpg 110w, http://uktaxi.local/wp-content/uploads/2017/05/client-5-100x100.jpg 100w"
-                                            sizes="(max-width: 110px) 100vw, 110px">
+                                            srcset="/images/client-5.jpg 110w, /images/client-5-100x100.jpg 100w" sizes="(max-width: 110px) 100vw, 110px">
                                     </div>
                                 </article>
                             </div>
@@ -55,10 +53,9 @@
                                     </div>
                                     <div class="quote">
                                         <span class="fa fa-quote-left"></span>
-                                        <div class="name">STEVEN RASHFORD</div><img width="110" height="110" src="http://uktaxi.local/wp-content/uploads/2017/05/client-4.jpg"
+                                        <div class="name">STEVEN RASHFORD</div><img width="110" height="110" src="/images/client-4.jpg"
                                             class="attachment-stargym-test size-stargym-test wp-post-image" alt=""
-                                            srcset="http://uktaxi.local/wp-content/uploads/2017/05/client-4.jpg 110w, http://uktaxi.local/wp-content/uploads/2017/05/client-4-100x100.jpg 100w"
-                                            sizes="(max-width: 110px) 100vw, 110px">
+                                            srcset="/images/client-4.jpg 110w, /images/client-4-100x100.jpg 100w" sizes="(max-width: 110px) 100vw, 110px">
                                     </div>
                                 </article>
                             </div>
@@ -76,10 +73,9 @@
                                     </div>
                                     <div class="quote">
                                         <span class="fa fa-quote-left"></span>
-                                        <div class="name">ANASTASIA STONE</div><img width="102" height="102" src="http://uktaxi.local/wp-content/uploads/2017/05/client-1.jpg"
+                                        <div class="name">ANASTASIA STONE</div><img width="102" height="102" src="/images/client-1.jpg"
                                             class="attachment-stargym-test size-stargym-test wp-post-image" alt=""
-                                            srcset="http://uktaxi.local/wp-content/uploads/2017/05/client-1.jpg 102w, http://uktaxi.local/wp-content/uploads/2017/05/client-1-100x100.jpg 100w"
-                                            sizes="(max-width: 102px) 100vw, 102px">
+                                            srcset="/images/client-1.jpg 102w, /images/client-1-100x100.jpg 100w" sizes="(max-width: 102px) 100vw, 102px">
                                     </div>
                                 </article>
                             </div>
@@ -93,10 +89,9 @@
                                     </div>
                                     <div class="quote">
                                         <span class="fa fa-quote-left"></span>
-                                        <div class="name">PATRICK JAMES</div><img width="110" height="110" src="http://uktaxi.local/wp-content/uploads/2017/05/client-5.jpg"
+                                        <div class="name">PATRICK JAMES</div><img width="110" height="110" src="/images/client-5.jpg"
                                             class="attachment-stargym-test size-stargym-test wp-post-image" alt=""
-                                            srcset="http://uktaxi.local/wp-content/uploads/2017/05/client-5.jpg 110w, http://uktaxi.local/wp-content/uploads/2017/05/client-5-100x100.jpg 100w"
-                                            sizes="(max-width: 110px) 100vw, 110px">
+                                            srcset="/images/client-5.jpg 110w, /images/client-5-100x100.jpg 100w" sizes="(max-width: 110px) 100vw, 110px">
                                     </div>
                                 </article>
                             </div>
@@ -113,10 +108,9 @@
                                     </div>
                                     <div class="quote">
                                         <span class="fa fa-quote-left"></span>
-                                        <div class="name">ANASTASIA STONE</div><img width="102" height="102" src="http://uktaxi.local/wp-content/uploads/2017/05/client-1.jpg"
+                                        <div class="name">ANASTASIA STONE</div><img width="102" height="102" src="/images/client-1.jpg"
                                             class="attachment-stargym-test size-stargym-test wp-post-image" alt=""
-                                            srcset="http://uktaxi.local/wp-content/uploads/2017/05/client-1.jpg 102w, http://uktaxi.local/wp-content/uploads/2017/05/client-1-100x100.jpg 100w"
-                                            sizes="(max-width: 102px) 100vw, 102px">
+                                            srcset="/images/client-1.jpg 102w, /images/client-1-100x100.jpg 100w" sizes="(max-width: 102px) 100vw, 102px">
                                     </div>
                                 </article>
                             </div>

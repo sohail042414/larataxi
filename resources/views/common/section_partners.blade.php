@@ -6,8 +6,7 @@
 
                 <div class="wpb_wrapper">
                     <div class="car-right animation-block">
-                        <img src="http://uktaxi.local/wp-content/uploads/2017/05/car-big-side.png" class="full-width slideleft"
-                            alt="animation">
+                        <img src="/images/car-big-side.png" class="full-width slideleft" alt="animation">
                     </div>
                 </div>
 

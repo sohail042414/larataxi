@@ -16,8 +16,7 @@
             <div class="vc_column-inner ">
                 <div class="wpb_wrapper">
                     <div class="tariff-item matchHeight " style="height: 370px;">
-                        <div class="image"><img src="http://uktaxi.local/wp-content/uploads/2017/05/tariff-1.png" class="full-width"
-                                alt="Standart"></div>
+                        <div class="image"><img src="/images/tariff-1.png" class="full-width" alt="Standart"></div>
                         <h4>Standart</h4>
                         <p>Standard sedan for a drive around the city at your service</p>
                         <div class="price">$2<span> /km </span></div>
@@ -29,8 +28,7 @@
             <div class="vc_column-inner ">
                 <div class="wpb_wrapper">
                     <div class="tariff-item matchHeight " style="height: 370px;">
-                        <div class="image"><img src="http://uktaxi.local/wp-content/uploads/2017/05/tariff-2.png" class="full-width"
-                                alt="Business"></div>
+                        <div class="image"><img src="/images/tariff-2.png" class="full-width" alt="Business"></div>
                         <h4>Business</h4>
                         <p>Standard sedan for a drive around the city at your service</p>
                         <div class="price">$2,7<span> /km </span></div>
@@ -42,8 +40,7 @@
             <div class="vc_column-inner ">
                 <div class="wpb_wrapper">
                     <div class="tariff-item matchHeight vip" style="height: 370px;">
-                        <div class="image"><img src="http://uktaxi.local/wp-content/uploads/2017/05/tariff-3.png" class="full-width"
-                                alt="VIP"></div>
+                        <div class="image"><img src="/images/tariff-3.png" class="full-width" alt="VIP"></div>
                         <h4>VIP</h4>
                         <p>Standard sedan for a drive around the city at your service. </p>
                         <div class="price">$5<span> /km </span></div>
@@ -55,8 +52,7 @@
             <div class="vc_column-inner ">
                 <div class="wpb_wrapper">
                     <div class="tariff-item matchHeight " style="height: 370px;">
-                        <div class="image"><img src="http://uktaxi.local/wp-content/uploads/2017/05/tariff-4.png" class="full-width"
-                                alt="Bus-minivan"></div>
+                        <div class="image"><img src="/images/tariff-4.png" class="full-width" alt="Bus-minivan"></div>
                         <h4>Bus-minivan</h4>
                         <p>Standard sedan for a drive around the city at your service</p>
                         <div class="price">$4.5<span> /km </span></div>

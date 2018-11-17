@@ -63,6 +63,7 @@
 
 <body class="home page-template-default page page-id-10 logged-in admin-bar masthead-fixed full-width footer-widgets grid wpb-js-composer js-comp-ver-5.5.2 vc_responsive  customize-support pace-done">
 
+    <div id="preloader"></div>
     @include('common.header')
 
     @yield('content')

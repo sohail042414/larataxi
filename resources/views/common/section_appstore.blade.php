@@ -1,4 +1,4 @@
-<section data-vc-full-width="true" data-vc-full-width-init="true" data-vc-parallax="1.5" data-vc-parallax-image="http://uktaxi.local/wp-content/uploads/2017/05/download-bg.jpg"
+<section data-vc-full-width="true" data-vc-full-width-init="true" data-vc-parallax="1.5" data-vc-parallax-image="/images/download-bg.jpg"
     class="vc_section download-block vc_custom_item2 vc_section-has-fill vc_general vc_parallax vc_parallax-content-moving bg-color-black bg-overlay-black download-block"
     style="position: relative; left: -43px; box-sizing: border-box; width: 1286px; padding-left: 43px; padding-right: 43px;">
     <div class="vc_row wpb_row vc_row-fluid">
@@ -84,8 +84,8 @@
 
                                         <figure class="wpb_wrapper vc_figure">
                                             <a href="#" target="_self" class="vc_single_image-wrapper   vc_box_border_grey"><img
-                                                    width="150" height="50" src="http://uktaxi.local/wp-content/uploads/2017/05/app-google-150x50.png"
-                                                    class="vc_single_image-img attachment-thumbnail" alt=""></a>
+                                                    width="150" height="50" src="/images/app-google-150x50.png" class="vc_single_image-img attachment-thumbnail"
+                                                    alt=""></a>
                                         </figure>
                                     </div>
 
@@ -93,8 +93,8 @@
 
                                         <figure class="wpb_wrapper vc_figure">
                                             <a href="#" target="_self" class="vc_single_image-wrapper   vc_box_border_grey"><img
-                                                    width="150" height="53" src="http://uktaxi.local/wp-content/uploads/2017/05/app-apple-150x53.png"
-                                                    class="vc_single_image-img attachment-thumbnail" alt=""></a>
+                                                    width="150" height="53" src="/images/app-apple-150x53.png" class="vc_single_image-img attachment-thumbnail"
+                                                    alt=""></a>
                                         </figure>
                                     </div>
                                 </div>
@@ -167,5 +167,5 @@
         </div>
     </div>
     <div class="vc_parallax-inner skrollable skrollable-before" data-bottom-top="top: -50%;" data-top-bottom="top: 0%;"
-        style="height: 150%; background-image: url(&quot;http://uktaxi.local/wp-content/uploads/2017/05/download-bg.jpg&quot;); top: -50%;"></div>
+        style="height: 150%; background-image: url(&quot;/images/download-bg.jpg&quot;); top: -50%;"></div>
 </section>

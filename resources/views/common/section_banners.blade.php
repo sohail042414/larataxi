@@ -5,9 +5,9 @@
                 <div class="wpb_single_image wpb_content_element vc_align_left">
 
                     <figure class="wpb_wrapper vc_figure">
-                        <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="600" height="238" src="http://uktaxi.local/wp-content/uploads/2017/05/banner-1-4.png"
-                                class="vc_single_image-img attachment-full" alt="" srcset="http://uktaxi.local/wp-content/uploads/2017/05/banner-1-4.png 600w, http://uktaxi.local/wp-content/uploads/2017/05/banner-1-4-300x119.png 300w"
-                                sizes="(max-width: 600px) 100vw, 600px"></div>
+                        <div class="vc_single_image-wrapper   vc_box_border_grey">
+                            <img width="600" height="238" src="/images/banner-1-4.png" class="vc_single_image-img attachment-full"
+                                alt="" srcset="/images/banner-1-4.png 600w, /images/banner-1-4-300x119.png 300w" sizes="(max-width: 600px) 100vw, 600px"></div>
                     </figure>
                 </div>
             </div>
@@ -19,8 +19,8 @@
                 <div class="wpb_single_image wpb_content_element vc_align_left">
 
                     <figure class="wpb_wrapper vc_figure">
-                        <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="600" height="238" src="http://uktaxi.local/wp-content/uploads/2017/05/banner-2-2.png"
-                                class="vc_single_image-img attachment-full" alt="" srcset="http://uktaxi.local/wp-content/uploads/2017/05/banner-2-2.png 600w, http://uktaxi.local/wp-content/uploads/2017/05/banner-2-2-300x119.png 300w"
+                        <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="600" height="238" src="/images/banner-2-2.png"
+                                class="vc_single_image-img attachment-full" alt="" srcset="/images/banner-2-2.png 600w, /images/banner-2-2-300x119.png 300w"
                                 sizes="(max-width: 600px) 100vw, 600px"></div>
                     </figure>
                 </div>
