@@ -1,0 +1,32 @@
+<form action="/get-taxi/#wpcf7-f326-p17-o1" method="post" class="wpcf7-form" novalidate="novalidate">
+    <div style="display: none;">
+        <input type="hidden" name="_wpcf7" value="326">
+        <input type="hidden" name="_wpcf7_version" value="5.0.4">
+        <input type="hidden" name="_wpcf7_locale" value="en_US">
+        <input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f326-p17-o1">
+        <input type="hidden" name="_wpcf7_container_post" value="17">
+    </div>
+    <div class="menu-types"><a href="#" data-value="Standart" class="car-select-0  active">Standart</a><a href="#"
+            data-value="Business" class="car-select-1 ">Business</a><a href="#" data-value="VIP" class="car-select-2 red">VIP</a><a
+            href="#" data-value="Bus-Minivan" class="car-select-3 ">Bus-Minivan</a><input type="hidden" class="type-value"
+            value="Standart" name="carselect"></div>
+    <div class="row">
+        <div class="col-md-6"><label><span class="wpcf7-form-control-wrap address"><input type="text" name="address"
+                        value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
+                        aria-required="true" aria-invalid="false" placeholder="From Address..."></span></label></div>
+        <div class="col-md-6"><label><span class="wpcf7-form-control-wrap to"><input type="text" name="to" value=""
+                        size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true"
+                        aria-invalid="false" placeholder="To..."></span> </label></div>
+        <div class="col-md-6"><label><span class="wpcf7-form-control-wrap phone"><input type="text" name="phone" value=""
+                        size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true"
+                        aria-invalid="false" placeholder="Phone Number"></span></label></div>
+        <div class="col-md-6">
+            <p><label> <span class="wpcf7-form-control-wrap your-date"><input type="date" name="your-date" value="Date and time"
+                            class="wpcf7-form-control wpcf7-date wpcf7-validates-as-required wpcf7-validates-as-date"
+                            min="2018-11-18" max="2018-11-28" step="1" aria-required="true" aria-invalid="false"></span>
+                </label></p>
+        </div>
+    </div>
+    <p><input type="submit" value="Get Taxi" class="wpcf7-form-control wpcf7-submit"><span class="ajax-loader"></span></p>
+    <div class="wpcf7-response-output wpcf7-display-none"></div>
+</form>

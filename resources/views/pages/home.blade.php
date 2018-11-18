@@ -19,7 +19,7 @@
                                         <div class="wpb_wrapper">
                                             <div class="heading  align-center" id="like_sc_header_81552181">
                                                 <h4>Get Taxi Now</h4>
-                                                <h2>800-5-800</h2><span class="icon-bg fa fa-phone-square"></span>
+                                                <h2>{{ config('app.settings.phone') }}</h2><span class="icon-bg fa fa-phone-square"></span>
                                             </div>
                                             <div class="large-image-center">
                                                 <img src="/images/car-big.png" class="full-width" alt="animation">

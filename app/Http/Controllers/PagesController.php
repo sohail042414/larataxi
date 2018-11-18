@@ -11,7 +11,7 @@ class PagesController extends Controller
      */
     public function contact()
     {
-        return view('contact');
+        return view('pages.contact');
     }
 
     /**
@@ -21,6 +21,55 @@ class PagesController extends Controller
      */
     public function services()
     {
-        return view('services');
+        return view('pages.services');
+    }
+
+    /**
+     * Show the services us page.
+     *
+     * @return \Illuminate\Http\Response
+     */
+    public function get_taxi()
+    {
+        return view('pages.get_taxi');
+    }
+    /**
+     * Show the tarrif us page.
+     *
+     * @return \Illuminate\Http\Response
+     */
+    public function tarrif()
+    {
+        return view('pages.tarrif');
+    }
+
+    /**
+     * Show the team us page.
+     *
+     * @return \Illuminate\Http\Response
+     */
+    public function team()
+    {
+        return view('pages.team');
+    }
+
+    /**
+     * Show the about us page.
+     *
+     * @return \Illuminate\Http\Response
+     */
+    public function about()
+    {
+        return view('pages.about');
+    }
+
+    /**
+     * Show the earh with us page.
+     *
+     * @return \Illuminate\Http\Response
+     */
+    public function earn()
+    {
+        return view('pages.earn');
     }
 }

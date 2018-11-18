@@ -8,7 +8,7 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>{{ config('app.name', 'Laravel') }}</title>
+    <title>{{ config('app.name', 'UK Airport Cab Services') }}</title>
 
     <!-- Scripts -->
     <!--
@@ -38,7 +38,7 @@
     <link href="{{ asset('taxi-park/inline.css') }}" rel="stylesheet">
     <link href="{{ asset('taxi-park/font-awesome.min.css') }}" rel="stylesheet">
     <link href="{{ asset('taxi-park/js_composer.min.css') }}" rel="stylesheet">
-    <!----
+
     <link href="{{ asset('taxi-park/admin.css') }}" rel="stylesheet">
     <link href="{{ asset('taxi-park/dashicons.min.css') }}" rel="stylesheet">
     <link href="{{ asset('taxi-park/editor-style.css') }}" rel="stylesheet">
@@ -49,7 +49,6 @@
     <link href="{{ asset('taxi-park/selectize.css') }}" rel="stylesheet">
     <link rel="dns-prefetch" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet" type="text/css">
--->
 
 
     <!-- Styles -->
@@ -64,7 +63,7 @@
 <body class="home page-template-default page page-id-10 logged-in admin-bar masthead-fixed full-width footer-widgets grid wpb-js-composer js-comp-ver-5.5.2 vc_responsive  customize-support pace-done">
 
     <div id="preloader"></div>
-    @include('common.header')
+    @include('common.header_home')
 
     @yield('content')
 

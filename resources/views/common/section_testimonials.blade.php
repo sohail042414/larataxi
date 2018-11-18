@@ -115,7 +115,7 @@
                                 </article>
                             </div>
                         </div>
-                        <div class="arrows">
+                        <div class="arrows" style="display:none;">
                             <a href="#" class="arrow-left fa fa-caret-left"></a>
                             <a href="#" class="arrow-right fa fa-caret-right"></a>
                         </div>
