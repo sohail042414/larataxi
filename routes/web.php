@@ -28,11 +28,15 @@ Route::get('/tarrif', 'PagesController@tarrif');
 Route::get('/team', 'PagesController@team');
 Route::get('/earn-with-us', 'PagesController@earn');
 
+//forms
+Route::post('/make-booking', 'HomeController@make_booking');
+
 /**
  * Admin routes
  */
+Route::resource('/admin/faqs','Admin\FaqController');
 
-Route::get('/admin/bookings', 'Admin\BookingController@index');
+Route::resource('/admin/bookings','Admin\BookingController');
 
 Route::get('/admin', 'Admin\AdminController@index');
 

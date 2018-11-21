@@ -4,7 +4,7 @@ namespace App\Models;
 
 use App\Models\BaseModel;
 
-class Booking extends BaseModel
+class CarTypes extends BaseModel
 {
     //
 }

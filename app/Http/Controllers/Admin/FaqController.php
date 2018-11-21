@@ -2,11 +2,12 @@
 
 namespace App\Http\Controllers\Admin;
 
+use App\Admin\Faq;
 use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
-use App\Models\Booking;
 
-class BookingController extends Controller
+
+class FaqController extends Controller
 {
     /**
      * Display a listing of the resource.
@@ -15,9 +16,7 @@ class BookingController extends Controller
      */
     public function index()
     {
-        
-       $list = Booking::paginate(config('app.settings.records_per_page'));
-       return view('admin.pages.bookings.list',['list'=>$list]);
+        //
     }
 
     /**
@@ -27,9 +26,7 @@ class BookingController extends Controller
      */
     public function create()
     {
-        
-        return view('admin.pages.bookings.create');
-
+        //
     }
 
     /**
@@ -46,10 +43,10 @@ class BookingController extends Controller
     /**
      * Display the specified resource.
      *
-     * @param  int  $id
+     * @param  \App\Models\Faq  $faq
      * @return \Illuminate\Http\Response
      */
-    public function show($id)
+    public function show(Faq $faq)
     {
         //
     }
@@ -57,10 +54,10 @@ class BookingController extends Controller
     /**
      * Show the form for editing the specified resource.
      *
-     * @param  int  $id
+     * @param  \App\Models\Faq  $faq
      * @return \Illuminate\Http\Response
      */
-    public function edit($id)
+    public function edit(Faq $faq)
     {
         //
     }
@@ -69,10 +66,10 @@ class BookingController extends Controller
      * Update the specified resource in storage.
      *
      * @param  \Illuminate\Http\Request  $request
-     * @param  int  $id
+     * @param  \App\Models\Faq  $faq
      * @return \Illuminate\Http\Response
      */
-    public function update(Request $request, $id)
+    public function update(Request $request, Faq $faq)
     {
         //
     }
@@ -80,10 +77,10 @@ class BookingController extends Controller
     /**
      * Remove the specified resource from storage.
      *
-     * @param  int  $id
+     * @param \App\Models\Faq  $faq
      * @return \Illuminate\Http\Response
      */
-    public function destroy($id)
+    public function destroy(Faq $faq)
     {
         //
     }

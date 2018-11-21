@@ -30,8 +30,13 @@
                                 <td>{{$booking->booking_date}}</td>
                             </tr>
                             @endforeach
-
+                            <tr>
+                                <td colspan="5">
+                                    {{ $list->links() }}
+                                </td>
+                            </tr>
                         </tbody>
+
                     </table>
 
                 </div>
