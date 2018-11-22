@@ -31,7 +31,9 @@ class PagesController extends Controller
      */
     public function get_taxi()
     {
-        return view('pages.get_taxi');
+        $booking_status = request()->session()->get('booking_status', 'no');
+
+        return view('pages.get_taxi',['booking_status'=>$booking_status]);
     }
     /**
      * Show the tarrif us page.

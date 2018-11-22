@@ -38,6 +38,8 @@ class HomeController extends Controller
        
         $booking = new Booking();
 
+        $redirect_page = $request->input('form_page');
+
         $validatedData = $request->validate([
             'from_address' => 'required',
             'to_address' => 'required',
@@ -57,6 +59,6 @@ class HomeController extends Controller
             $request->session()->flash('booking_status', 'Booking not saved, please try again!');
         }
 
-        return redirect('/home');
+        return redirect('/'.$redirect_page);
     }
 }
